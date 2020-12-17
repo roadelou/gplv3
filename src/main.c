@@ -105,7 +105,7 @@ int main(int argc, const char **argv) {
   Note
   ====
 
-  That is a lot of line for "cat /etc/roadelou_gplv3/GPLv3_LICENSE"...
+  That is a lot of line for "cp /etc/roadelou_gplv3/GPLv3_LICENSE LICENSE"...
   */
 }
 
